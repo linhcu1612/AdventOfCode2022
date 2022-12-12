@@ -1,3 +1,5 @@
+package Java.Day2.a;
+
 import java.util.*;
 import java.io.*;
 

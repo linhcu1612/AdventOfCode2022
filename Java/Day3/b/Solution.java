@@ -1,4 +1,4 @@
-package Day3.b;
+package Java.Day3.b;
 
 import java.util.*;
 import java.io.*;
